@@ -1,0 +1,313 @@
+{
+  "navigator_id": "e2023f05-3a7d-4a35-a71f-63524c62ce44",
+  "twitter_handle": "unknown",
+  "analysis_date": "2025-09-21T10:46:25.412296",
+  "profile_summary": {
+    "consciousness_scale": "system",
+    "consciousness_stage": "mastery",
+    "total_time_violence_hours": 2168.1666666666665,
+    "domains": [
+      "healthcare",
+      "employment",
+      "financial"
+    ],
+    "care_drivers": [
+      "financial_reform",
+      "neurodivergent_advocacy",
+      "education_reform",
+      "employment_reform",
+      "healthcare_reform",
+      "government_reform"
+    ]
+  },
+  "consciousness_indicators": [
+    {
+      "tweet_id": "1428826154241335303",
+      "timestamp": "2021-08-20T21:07:56+00:00",
+      "domain": "healthcare",
+      "type": "battle",
+      "intensity": 0.4005,
+      "content": "@isntjen same. this is something i've really struggled with at times. for a period, all i could wear was long sleeve shirts. \n\nmentioned it to my doctor at one point and she shrugged it off. once i fi"
+    },
+    {
+      "tweet_id": "1892928925019283553",
+      "timestamp": "2025-02-21T13:26:39+00:00",
+      "domain": "healthcare",
+      "type": "pattern",
+      "intensity": 0.8658,
+      "content": "@topelectics building world model 2 with human insurance. \n\ni rethought economics from the first principle that humans are valuable by default, and realized we can simply make that true. \n\nmodel 1 is "
+    },
+    {
+      "tweet_id": "1898054918784598355",
+      "timestamp": "2025-03-07T16:55:31+00:00",
+      "domain": "employment",
+      "type": "awareness",
+      "intensity": 0.5454,
+      "content": "don't require job applications, don't have to filter on ai generated job applications.\n\nthe trick to winning this game lies in figuring out how to remove the noise.\n\nexisting channels are extremely no"
+    },
+    {
+      "tweet_id": "1556638894447263745",
+      "timestamp": "2022-08-08T13:50:08+00:00",
+      "domain": "employment",
+      "type": "liberation",
+      "intensity": 0.6369,
+      "content": "rediscovered a podcast episode that triggered all sorts of ideas.\n\nezra klein interviews c. thi nguyen: a philosophy of games that is really a philosophy of life\n\nwill share my favorite quotes as a th"
+    },
+    {
+      "tweet_id": "1338499033644601347",
+      "timestamp": "2020-12-14T15:00:12+00:00",
+      "domain": "employment",
+      "type": "solution",
+      "intensity": 0.1249,
+      "content": "@indiehackers @nielsmouthaan the answer is that it depends on the size of your audience or your market demand. the hard part is knowing what that is. which is why i am building a new social network to"
+    },
+    {
+      "tweet_id": "1812843482014253509",
+      "timestamp": "2024-07-15T13:35:41+00:00",
+      "domain": "healthcare",
+      "type": "pattern",
+      "intensity": 0.1258,
+      "content": "@finereli it's funny, because i had to treat it like a medication. i used it on a schedule throughout the day. and there's a period where it fucked me up, maybe a week or two, uncontrollable munchies,"
+    },
+    {
+      "tweet_id": "1929332688827130161",
+      "timestamp": "2025-06-02T00:22:12+00:00",
+      "domain": "healthcare",
+      "type": "pattern",
+      "intensity": 0.5346,
+      "content": "@jordanwaparker to me, the vampire is my shadow. it's the desire for immortality, lust, urges of the flesh. there's an aesthetic that has always appealed to me, a generational approach to thinking.\n\nb"
+    },
+    {
+      "tweet_id": "1929629170977722515",
+      "timestamp": "2025-06-02T20:00:19+00:00",
+      "domain": "financial",
+      "type": "awareness",
+      "intensity": 0.5106,
+      "content": "the time revolution: a manifesto for temporal liberation\n\ni failed. we won't.\nlast night, i told my friend i could help him escape the debt collectors. i promised him the money would arrive before the"
+    },
+    {
+      "tweet_id": "1939750638608343184",
+      "timestamp": "2025-06-30T18:19:25+00:00",
+      "domain": "healthcare",
+      "type": "pattern",
+      "intensity": 0.8425,
+      "content": "@dagorenouf everyone who launches with you actually gets lifetime creator insurance now. i realized i can be quite generous with these early policies because of the nature of the network effects neede"
+    },
+    {
+      "tweet_id": "1333451917670969344",
+      "timestamp": "2020-11-30T16:44:46+00:00",
+      "domain": "financial",
+      "type": "liberation",
+      "intensity": 0.3127,
+      "content": "the problem is that the us government was designed to change slowly. #bigtech emerged from a culture shift of changing fast. this creates an interesting dynamic. there are problems with both approache"
+    },
+    {
+      "tweet_id": "1621664334576246784",
+      "timestamp": "2023-02-04T00:18:01+00:00",
+      "domain": "employment",
+      "type": "solution",
+      "intensity": 0.8591,
+      "content": "@kryschromo it's a great hack. the conversational nature of podcasts can definitely help that way. i've thought about doing one with a co-host at some point just to practice that level of consistent b"
+    },
+    {
+      "tweet_id": "1895690851281514829",
+      "timestamp": "2025-03-01T04:21:33+00:00",
+      "domain": "financial",
+      "type": "pattern",
+      "intensity": 0.9114,
+      "content": "@loopholekid right now, all the financial systems are designed to be past-forward.\n\nthis means that, in order to buy a house, you are expected to have a certain amount of money on hand and enough of a"
+    },
+    {
+      "tweet_id": "1895858029339259252",
+      "timestamp": "2025-03-01T15:25:52+00:00",
+      "domain": "financial",
+      "type": "awareness",
+      "intensity": 0.4588,
+      "content": "@loopholekid this is actually the neat thing about my model. the reason i'm doing it the way i'm doing it is because i'll be able to assume a lot of the costs that banks are pushing on to people becau"
+    },
+    {
+      "tweet_id": "1596527821685399552",
+      "timestamp": "2022-11-26T15:34:29+00:00",
+      "domain": "employment",
+      "type": "awareness",
+      "intensity": 0.3818,
+      "content": "@pauline_cx 2.  pump and dump schemes\n3.  social media\n4.  job-related skills\n5.  data science, saas, ibm spss modeler, python, crisp-dm, git, machine learning, resume\n6.  building an algorithm"
+    },
+    {
+      "tweet_id": "1835040816118583317",
+      "timestamp": "2024-09-14T19:39:58+00:00",
+      "domain": "employment",
+      "type": "solution",
+      "intensity": 0.1,
+      "content": "rt @hackingbaseball: hey folks!\n\ni'll be graduating with a bs in data science in ~6 months and am kicking off a job search.\n\nim looking for\u2026"
+    },
+    {
+      "tweet_id": "1888644606218137987",
+      "timestamp": "2025-02-09T17:42:18+00:00",
+      "domain": "healthcare",
+      "type": "pattern",
+      "intensity": 0.4767,
+      "content": "@tomowenmorgan i\u2019ve been studying the economics of information and i\u2019ve realized the risk calculus of the economy is wrong, because it doesn\u2019t take human risk into account. \n\nso human insurance is a m"
+    },
+    {
+      "tweet_id": "1893671029991416256",
+      "timestamp": "2025-02-23T14:35:30+00:00",
+      "domain": "financial",
+      "type": "liberation",
+      "intensity": 0.0361,
+      "content": "until the people realize the game is rigged against them and refuse to play because they get a better offer.\n\nhuman insurance lets us bet against the corporations and governments that don't have our i"
+    },
+    {
+      "tweet_id": "1334575024695619585",
+      "timestamp": "2020-12-03T19:07:35+00:00",
+      "domain": "healthcare",
+      "type": "pattern",
+      "intensity": 0.0,
+      "content": "rt @acweyand: my brother is a photographer and always says that the purpose of art is to make you feel. \n\n@therealdoctort is an artist, my\u2026"
+    },
+    {
+      "tweet_id": "1872362504132890951",
+      "timestamp": "2024-12-26T19:23:02+00:00",
+      "domain": "healthcare",
+      "type": "pattern",
+      "intensity": 0.5023,
+      "content": "here was a prediction i made about the idea of bankers.\n\ni viewed the future as personal bankers. i was close, but now i've realized i needed to think about it like personal insurance agents + bankers"
+    },
+    {
+      "tweet_id": "1362202409905364996",
+      "timestamp": "2021-02-18T00:48:57+00:00",
+      "domain": "employment",
+      "type": "solution",
+      "intensity": 0.2023,
+      "content": "i posted this last night thinking there was no way i was going to be able to pay my upcoming bills in time. \n\nit didn't work. but i kept working. and learning. and now i have a new idea. \n\ni am going "
+    },
+    {
+      "tweet_id": "1877170184026288445",
+      "timestamp": "2025-01-09T01:47:02+00:00",
+      "domain": "healthcare",
+      "type": "pattern",
+      "intensity": 0.6597,
+      "content": "what if i said that progressives are right, and the fact that insurance companies haven't realized it yet is their fault, not the fault of the expectations of the clients based on what has been promis"
+    },
+    {
+      "tweet_id": "1879998331109405031",
+      "timestamp": "2025-01-16T21:05:05+00:00",
+      "domain": "healthcare",
+      "type": "pattern",
+      "intensity": 0.8271,
+      "content": "we don't have to be good enough for it. we just have to set it as an immutable fact in the world economy.\n\nthat's why i'm creating human insurance. i'm going to make sure that we are always being valu"
+    },
+    {
+      "tweet_id": "1486724139503140873",
+      "timestamp": "2022-01-27T15:33:51+00:00",
+      "domain": "healthcare",
+      "type": "pattern",
+      "intensity": 0.7717,
+      "content": "it was always expected of me that i would have a nice safe job with insurance. \n\nbut as i thought about it, i realized that the safe path was slowly eroding away.\n\ni followed the rules i was supposed "
+    },
+    {
+      "tweet_id": "1885001729097273426",
+      "timestamp": "2025-01-30T16:26:48+00:00",
+      "domain": "healthcare",
+      "type": "pattern",
+      "intensity": 0.8176,
+      "content": "@mikulaja @roryoreilly @jsawadd would love to chat. i'm working on human insurance, because i realized we've mispriced risk in the economy: everyone gets to price risk into their economic models excep"
+    },
+    {
+      "tweet_id": "1669430474685689856",
+      "timestamp": "2023-06-15T19:43:36+00:00",
+      "domain": "employment",
+      "type": "solution",
+      "intensity": 0.5256,
+      "content": "@masroorejaz i think podcasting develops a number of really powerful skills.\n\nand there's a ton of variation in styles. can be solo, interview, discussion, narrative, etc.\n\nwhen you do interviews, you"
+    },
+    {
+      "tweet_id": "1529641498672828416",
+      "timestamp": "2022-05-26T01:52:07+00:00",
+      "domain": "financial",
+      "type": "liberation",
+      "intensity": 0.8485,
+      "content": "@ronzakay @amy_ouzoonian that's the funny part. it wasn't designed to sell on, but that's what inevitably happens when people have access to others.\n\nthat tends to have interesting side effects as net"
+    },
+    {
+      "tweet_id": "1866290110431367204",
+      "timestamp": "2024-12-10T01:13:30+00:00",
+      "domain": "financial",
+      "type": "awareness",
+      "intensity": 0.7717,
+      "content": "it's funny how much ego is wrapped up in the meme of the \"brain worm\".\n\nthey believe that somehow,  there's a super powerful force that thankfully only infected those of lesser minds. \n\nthat's probabl"
+    },
+    {
+      "tweet_id": "1889324680982798665",
+      "timestamp": "2025-02-11T14:44:40+00:00",
+      "domain": "healthcare",
+      "type": "pattern",
+      "intensity": 0.4263,
+      "content": "@kylascan it will and i'm working on the proof with my model of human insurance.\n\nthis creates a way to hedge against the economy on behalf of individuals and communities. \n\ni realized that the risk c"
+    },
+    {
+      "tweet_id": "1929732197746934113",
+      "timestamp": "2025-06-03T02:49:43+00:00",
+      "domain": "healthcare",
+      "type": "pattern",
+      "intensity": 0.6814,
+      "content": "@mudscryer i didn't truly understand them as different until yesterday/today. \n\nwhen you truly unlock agency, you can't be denied. \n\nthe universe literally bends to your will, because there's always a"
+    },
+    {
+      "tweet_id": "1501239614341799944",
+      "timestamp": "2022-03-08T16:53:10+00:00",
+      "domain": "healthcare",
+      "type": "pattern",
+      "intensity": 0.1,
+      "content": "@robertoblake @gracebanyan i used to say no. my mom always put ketchup on her eggs. \n\nbut after trying it, it's not something i do all the time, but i get the appeal. i am more likely to use hot sauce"
+    },
+    {
+      "tweet_id": "1887235112175296544",
+      "timestamp": "2025-02-05T20:21:28+00:00",
+      "domain": "healthcare",
+      "type": "pattern",
+      "intensity": 0.296,
+      "content": "whoops, had to rewrite it quickly because i realized that intelligence and entropy factor into this as well.\n\nthis shows how intelligence is a result of increasing entropy. \n\nthis is exactly why i'm d"
+    },
+    {
+      "tweet_id": "1892021983849873806",
+      "timestamp": "2025-02-19T01:22:47+00:00",
+      "domain": "healthcare",
+      "type": "pattern",
+      "intensity": 0.9495,
+      "content": "i'm doing my own pmf or die. i applied for this one, but wasn't selected.\n\nso fuck it, here's my challenge: i'm going to go from $0-$1m in 90 days with human insurance.\n\nafter day 1, i've realized tha"
+    },
+    {
+      "tweet_id": "1879331491986993350",
+      "timestamp": "2025-01-15T00:55:18+00:00",
+      "domain": "financial",
+      "type": "awareness",
+      "intensity": 0.7351,
+      "content": "or you can dismantle the banking system because it\u2019s rigged against you. \n\nunderstanding the value of humans and communities is the true value unlock. \n\nrefuse to participate in systems that make you "
+    },
+    {
+      "tweet_id": "1400200151952617473",
+      "timestamp": "2021-06-02T21:18:25+00:00",
+      "domain": "healthcare",
+      "type": "pattern",
+      "intensity": 0.6862,
+      "content": "i can get things built. i've also been trying for over 3 months to get medication. i didn't want to, but i realized i needed it. unfortunately, a startup doesn't come with insurance. so i'm on a commu"
+    },
+    {
+      "tweet_id": "1630924687738896384",
+      "timestamp": "2023-03-01T13:35:21+00:00",
+      "domain": "employment",
+      "type": "solution",
+      "intensity": 0.8262999999999999,
+      "content": "@safwansiddiq @myfirstmilpod have you ever listened to the indie hackers podcast?\n\nit's interview + a little bit of banter.\n\nalso, where it happens is a good one too, check out the earlier episodes fo"
+    },
+    {
+      "tweet_id": "1899650622950916409",
+      "timestamp": "2025-03-12T02:36:16+00:00",
+      "domain": "employment",
+      "type": "awareness",
+      "intensity": 0.8779,
+      "content": "back in 2023, i got the opportunity to interview one of my heroes. \n\nexcept, after interviewing him, i never published it.\n\nit's funny, because this was the interview that i thought was going to eleva"
+    }
+  ]
+}
