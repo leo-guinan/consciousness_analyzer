@@ -313,7 +313,6 @@ The term "Time Violence" refers to the systematic theft of time through unnecess
 ## Related Projects
 
 - [Community Archive](https://www.community-archive.org/) - Source of Twitter archives
-- [Bottega Network](https://bottega.network) - Navigator marketplace concept
 
 ## License
 
