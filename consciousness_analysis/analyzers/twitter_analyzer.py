@@ -14,6 +14,7 @@ from ..utils.text_analysis import (
     extract_time_amount, classify_consciousness_type,
     calculate_intensity, generate_situation_hash, analyze_sentiment
 )
+from ..utils.meme_filters import is_genuine_consciousness_indicator
 
 logger = logging.getLogger(__name__)
 
@@ -107,6 +108,10 @@ class TwitterConsciousnessAnalyzer:
                 # Check for consciousness indicators
                 consciousness_matches = sum(1 for ind in patterns['consciousness_indicators'] if ind in text)
                 if consciousness_matches > 0:
+                    # Validate it's genuine consciousness, not a meme
+                    if not is_genuine_consciousness_indicator(text, domain):
+                        logger.debug(f"Filtered out likely meme/copypasta: {text[:100]}...")
+                        continue
 
                     # This shows pattern recognition / consciousness development
                     situation_hash = generate_situation_hash(domain, text)

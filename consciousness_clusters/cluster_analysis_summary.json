@@ -1,0 +1,135 @@
+{
+  "statistics": {
+    "total_clusters": 15,
+    "total_indicators": 284,
+    "avg_indicators_per_cluster": 18.933333333333334,
+    "avg_navigators_per_cluster": 5.133333333333334,
+    "largest_cluster": "financial_awareness",
+    "most_navigators_cluster": "financial_awareness",
+    "domain_distribution": {
+      "education": 5,
+      "employment": 52,
+      "financial": 124,
+      "government": 4,
+      "healthcare": 99
+    },
+    "type_distribution": {
+      "awareness": 154,
+      "liberation": 12,
+      "pattern": 108,
+      "solution": 8,
+      "battle": 2
+    },
+    "overlap_stats": {
+      "total_navigators": 37,
+      "multi_cluster_navigators": 6,
+      "avg_clusters_per_navigator": 2.081081081081081,
+      "max_clusters_per_navigator": 15,
+      "cross_domain_navigators": 6
+    }
+  },
+  "overlap_statistics": {
+    "total_navigators": 37,
+    "multi_cluster_navigators": 6,
+    "avg_clusters_per_navigator": 2.081081081081081,
+    "max_clusters_per_navigator": 15,
+    "cross_domain_navigators": 6
+  },
+  "common_patterns": {
+    "overall": {
+      "always": 58,
+      "trap": 51,
+      "systemic": 48,
+      "game": 41,
+      "every time": 15,
+      "learned": 13,
+      "designed to": 12,
+      "hack": 9,
+      "escape": 9,
+      "figured out": 6,
+      "pattern": 6,
+      "rigged": 4,
+      "bureaucracy": 4,
+      "system works": 3,
+      "trick is": 3,
+      "navigate": 2,
+      "realized": 2,
+      "keyword": 1,
+      "algorithm": 1
+    },
+    "by_domain": {
+      "education": {
+        "system works": 3,
+        "navigate": 2
+      },
+      "employment": {
+        "game": 41,
+        "hack": 9,
+        "keyword": 1,
+        "algorithm": 1
+      },
+      "financial": {
+        "trap": 51,
+        "systemic": 48,
+        "designed to": 12,
+        "escape": 9,
+        "rigged": 4
+      },
+      "government": {
+        "bureaucracy": 4
+      },
+      "healthcare": {
+        "always": 58,
+        "every time": 15,
+        "learned": 13,
+        "figured out": 6,
+        "pattern": 6,
+        "trick is": 3,
+        "realized": 2
+      }
+    },
+    "by_type": {
+      "awareness": {
+        "systemic": 42,
+        "trap": 35,
+        "game": 34,
+        "learned": 13,
+        "designed to": 8,
+        "escape": 7,
+        "rigged": 4,
+        "system works": 3,
+        "navigate": 2,
+        "bureaucracy": 2
+      },
+      "liberation": {
+        "game": 3,
+        "trap": 3,
+        "escape": 2,
+        "designed to": 2,
+        "systemic": 1,
+        "trick is": 1
+      },
+      "pattern": {
+        "always": 58,
+        "every time": 15,
+        "trap": 13,
+        "pattern": 6,
+        "systemic": 5,
+        "game": 4,
+        "hack": 2,
+        "bureaucracy": 2,
+        "figured out": 2,
+        "realized": 2
+      },
+      "solution": {
+        "hack": 7,
+        "designed to": 1
+      },
+      "battle": {
+        "figured out": 2
+      }
+    }
+  },
+  "community_count": 1,
+  "cluster_count": 15
+}

@@ -1,0 +1,8 @@
+{
+  "total_clusters": 15,
+  "total_navigators": 37,
+  "total_patterns": 25,
+  "avg_patterns_per_navigator": 2.081081081081081,
+  "most_diverse_navigator": {
+    "name": "patio11",
+    "pattern_count": 
